@@ -21,4 +21,4 @@ The dataset is a subset of the Covidx dataset proposed as a benchmark dataset, f
 3. **https://github.com/agchung/Actualmed-COVID-chestxray-dataset**
 4. **https://www.kaggle.com/tawsifurrahman/covid19-radiography-database**
 
-The covid and normal paitent X-rays have been extracted and details are provided in metadata format. The folder has 2 subfolders, processed, and processed_2.   
+The covid and normal paitent X-rays have been extracted and details are provided in metadata format. The folder has 2 subfolders, processed_file, and processed_file_2. Details_1 is the metadata for processed and details_2 for processed_file_2. 1 represemts Covid positive and vice versa in reults
